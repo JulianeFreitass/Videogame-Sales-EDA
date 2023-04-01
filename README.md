@@ -1,2 +1,3 @@
-# Videogame-Sales-EDA
-This is an exploratory data analysis of the Video Game Sales dataset from Kaggle
+# Análise Exploratória de Dados (EDA) de Vendas de Videogames
+
+Atividade avaliativa da disciplina de Inteligência Artificial.
